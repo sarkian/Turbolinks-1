@@ -1,5 +1,5 @@
 {
-    "name":        "helthe/turbolinks",
+    "name":        "sarkian/turbolinks-component",
     "type":        "library",
     "description": "Helthe Turbolinks Component",
     "keywords":    ["turbolinks", "jquery.turbolinks"],
