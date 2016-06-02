@@ -23,7 +23,5 @@
     },
     "autoload": {
         "psr-4": { "Helthe\\Component\\Turbolinks\\": "" }
-    },
-    "extra": {
     }
 }
