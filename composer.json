@@ -5,6 +5,7 @@
     "keywords":    ["turbolinks", "jquery.turbolinks"],
     "homepage":    "https://helthe.co",
     "license":     "MIT",
+    "version": "1.4.4",
     "authors": [
         {
             "name": "Carl Alexander",
@@ -23,5 +24,6 @@
     },
     "autoload": {
         "psr-4": { "Helthe\\Component\\Turbolinks\\": "" }
-    }
+    },
+    "prefer-stable": false
 }
